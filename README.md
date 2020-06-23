@@ -1,2 +1,2 @@
-# Jupyter_DA_NumPy_training
-Jupyter NoteBook for Data Analysis training
+# Jupyter Data Analysis training
+Jupyter NoteBooks and files for Data Analysis training for RMOTR
